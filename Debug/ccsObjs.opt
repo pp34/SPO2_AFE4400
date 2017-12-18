@@ -1,0 +1,1 @@
+"./main.obj" "./AFE4400/AFE4400.obj" "./HAL/HAL_FLASH.obj" "./HAL/HAL_PMAP.obj" "./HAL/HAL_PMM.obj" "./HAL/HAL_TLV.obj" "./HAL/HAL_UCS.obj" "./OLED/oled.obj" "./PLUS/BH1750FVI.obj" "./PLUS/HTU21D.obj" "./PLUS/UV6070.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
